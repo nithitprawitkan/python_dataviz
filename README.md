@@ -41,7 +41,7 @@
 - 2.เลือก sign up for git hub
 ![alt text](photo13.jpg)
 - 3.Create account
-- 4.เข้า email เพื่อยืนยันการสมัคร
+- 4.เปิด email เพื่อยืนยันการสมัคร
 ![alt text](photo14.jpg)
 - 5.เชื่อมต่อเข้ากับ Anconda
 - 6.พิมพ์ git add เพื่อเพิ่มไฟล์
